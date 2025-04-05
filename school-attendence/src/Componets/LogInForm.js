@@ -5,6 +5,7 @@ export default function LoginPage() {
 
   return (
     <div className="min-h-screen flex items-center justify-center p-4 bg-gray-100">
+      <h1 className="text-2xl font-bold mb-4">Login</h1>
       <div className="w-full max-w-2xl grid grid-cols-2 gap-4 bg-white p-6 rounded-lg shadow-lg">
         {/* Left Side - Image */}
         <div>
